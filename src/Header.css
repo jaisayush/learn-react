@@ -1,0 +1,15 @@
+.logo {
+  height: 40px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #282c34;
+  color: white;
+}
+div {
+  list-style: none;
+  gap: 15px;
+}
